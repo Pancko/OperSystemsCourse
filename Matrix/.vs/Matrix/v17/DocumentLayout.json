@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\VisualStudio\\Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85EDE7D4-F691-442C-9BBA-C38A80E23246}|Matrix\\Matrix.vcxproj|F:\\Projects\\VisualStudio\\Matrix\\Matrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85EDE7D4-F691-442C-9BBA-C38A80E23246}|Matrix\\Matrix.vcxproj|solutionrelative:Matrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EDE7D4-F691-442C-9BBA-C38A80E23246}|Matrix\\Matrix.vcxproj|F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85EDE7D4-F691-442C-9BBA-C38A80E23246}|Matrix\\Matrix.vcxproj|solutionrelative:Matrix\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EDE7D4-F691-442C-9BBA-C38A80E23246}|Matrix\\Matrix.vcxproj|F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85EDE7D4-F691-442C-9BBA-C38A80E23246}|Matrix\\Matrix.vcxproj|solutionrelative:Matrix\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EDE7D4-F691-442C-9BBA-C38A80E23246}|Matrix\\Matrix.vcxproj|F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85EDE7D4-F691-442C-9BBA-C38A80E23246}|Matrix\\Matrix.vcxproj|solutionrelative:Matrix\\Timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timer.h",
+              "DocumentMoniker": "F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Timer.h",
+              "RelativeDocumentMoniker": "Matrix\\Timer.h",
+              "ToolTip": "F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Timer.h",
+              "RelativeToolTip": "Matrix\\Timer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T14:53:43.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.h",
+              "DocumentMoniker": "F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Matrix.h",
+              "RelativeDocumentMoniker": "Matrix\\Matrix.h",
+              "ToolTip": "F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Matrix.h",
+              "RelativeToolTip": "Matrix\\Matrix.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T10:04:32.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrix.cpp",
+              "DocumentMoniker": "F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Matrix.cpp",
+              "RelativeDocumentMoniker": "Matrix\\Matrix.cpp",
+              "ToolTip": "F:\\Projects\\VisualStudio\\Matrix\\Matrix\\Matrix.cpp",
+              "RelativeToolTip": "Matrix\\Matrix.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T10:05:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\Projects\\VisualStudio\\Matrix\\Matrix\\main.cpp",
+              "RelativeDocumentMoniker": "Matrix\\main.cpp",
+              "ToolTip": "F:\\Projects\\VisualStudio\\Matrix\\Matrix\\main.cpp",
+              "RelativeToolTip": "Matrix\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T10:04:39.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
