@@ -1,0 +1,15 @@
+create first_file
+write first_file some_info
+systeminfo
+read first_file
+create first_file
+create second
+systeminfo
+findname second
+write third 12345
+create third
+read third
+write third 123456
+systeminfo
+delete second
+systeminfo
